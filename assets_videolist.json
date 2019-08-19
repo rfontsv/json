@@ -1,13 +1,13 @@
 {
   "googlevideos": [{
-    "category": "Google+",
+    "category": "Videos",
     "videos": [{
-      "description": "Jon introduces Instant Upload with a few thoughts on how we remember the things that matter. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com",
+      "description": "Hola!. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
+      "card": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1550925090/tdt/tdt.png",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "Instant Upload",
-      "studio": "Google+"
+      "title": "Hola",
+      "studio": "Ric"
     }, {
       "description": "With Google+ Instant Upload, every picture you take on your phone is instantly backed up to a private Google+ album. It's a simple way to make sure you never lose another memory.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4"],
