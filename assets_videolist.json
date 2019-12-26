@@ -44,11 +44,11 @@
       "title": "Google+ Circles",
       "studio": "Pelis"
     }, {
-      "description": "Aimee introduces Hangouts with a few thoughts on the spontaneous get-together. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
+      "description": "T.Raider 2019",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/bg.jpg",
-      "title": "Google+ Hangouts",
+      "card": "https://res.cloudinary.com/dsmvomgrd/image/upload/v1550692459/tomb_raider.jpg",
+      "background": "https://image.tmdb.org/t/p/w500_and_h282_face/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg",
+      "title": "Tomb Raider (2018)",
       "studio": "Pelis"
     }]
   }, {
