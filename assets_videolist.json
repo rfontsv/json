@@ -45,7 +45,7 @@
       "studio": "Pelis"
     }, {
       "description": "Aimee introduces Hangouts with a few thoughts on the spontaneous get-together. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts.mp4"],
+      "sources": ["http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/bg.jpg",
       "title": "Google+ Hangouts",
@@ -55,7 +55,7 @@
     "category": "Demo Slam",
     "videos": [{
         "description": "Colette",
-        "sources": ["https://embed.mystream.to/dvrco1rsdnm1"],
+        "sources": ["http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4?LHMTv"],
         "card": "https://image.tmdb.org/t/p/w500_and_h282_face/t2xCXhMjmjM3xT19aTBYppqSW1g.jpg",
         "background": "https://i.blogs.es/0012e7/wp3700028/2560_3000.jpg",
         "title": "Colette",
